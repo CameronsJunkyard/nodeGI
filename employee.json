@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Cameron",
+        "salary": 25000,
+        "department": "Department of Computer Science"
+    },
+    {
+        "name": "Mae",
+        "salary": 100000,
+        "department": "Artist"
+    },
+    {
+        "name": "Elon",
+        "salary": 99999999,
+        "department": "Department of Rocket Science"
+    },
+    {
+        "name": "Reggie",
+        "salary": 77000,
+        "department": "The Business"
+    },
+    {
+        "name": "Shade",
+        "salary": 100000,
+        "department": "Shady Practices"
+    },
+    {
+        "name": "Janette",
+        "salary": 82450,
+        "department": "Demoted Moderator"
+    },
+    {
+        "name": "Mac",
+        "salary": 4206900,
+        "department": "Department of Nerd"
+    },
+    {
+        "name": "Ozwald",
+        "salary": 3,
+        "department": "Department of Magic"
+    },
+    {
+        "name": "Kesu",
+        "salary": 90000,
+        "department": "Very Nice Button ups"
+    },
+    {
+        "name": "Dante",
+        "salary": 100000,
+        "department": "Department of Music"
+    },
+    {
+        "name": "Gov",
+        "salary": 12347568989,
+        "department": "Department of Destruction"
+    }
+]
